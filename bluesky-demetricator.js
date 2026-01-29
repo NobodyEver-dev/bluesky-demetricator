@@ -19,6 +19,12 @@
             display: none !important;
         }
 
+		[data-testid="replyBtn"]
+        :nth-child(2)
+        {
+            display: none !important;
+        }
+
         a[aria-label="Notifications"][role="tab"] div div
         {
           color: #0000 !important;
