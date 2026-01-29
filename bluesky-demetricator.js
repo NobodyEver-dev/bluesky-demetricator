@@ -25,6 +25,18 @@
             display: none !important;
         }
 
+		[aria-label*="followers"]
+        :nth-child(1)
+        {
+            display: none !important;
+        }
+
+        [aria-label*="following"]
+        :nth-child(1)
+        {
+            display: none !important;
+        }
+
         a[aria-label="Notifications"][role="tab"] div div
         {
           color: #0000 !important;
