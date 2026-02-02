@@ -1,5 +1,5 @@
 # Bluesky Demetricator
-A barebones userscript that hides the number of likes, reskeets, following, followers and notifications on [Bluesky](https://bsky.app/).
+A barebones userscript that hides the number of likes, comments, reskeets, following, followers and notifications on [Bluesky](https://bsky.app/).
 
 For use with [Violentmonkey](https://violentmonkey.github.io/), [Greasemonkey](https://www.greasespot.net/), or [Tampermonkey](https://www.tampermonkey.net/).
 
